@@ -1,1 +1,1 @@
-A mini project for my Database Systems Paper
+My summer internship project.
